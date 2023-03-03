@@ -72,7 +72,7 @@ _이텔릭_
 ![POPPY](https://res.cloudinary.com/dygttvrql/image/upload/v1673082699/portfolio_img/favicon/logo1_70_ed6nes.png)    
 
 [![POPPY](https://res.cloudinary.com/dygttvrql/image/upload/v1673082699/portfolio_img/favicon/logo1_70_ed6nes.png)](http://frontyend.dothome.co.kr)  
-링크있는  q이미지
+링크있는 이미지
 
 <br />
 
